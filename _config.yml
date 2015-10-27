@@ -1,0 +1,23 @@
+name: Beinc
+favicon: null
+layout_spectrum: 0.9904959076084197
+typography_spectrum: 0.9054900193586946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.0730395708233118
+  lightness: 0.6578791865613312
+  saturation: 0.17428181902505457
+  rhythmicContrast: 0.6306532698217779
+purpose: []
