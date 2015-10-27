@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Beinc Cabinets]]></title>
         <description><![CDATA[Beinc Cabinets]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beinc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 02:15:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 02:18:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beinc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/beinc/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">8dfc71cf-0ce8-4ab9-b2e6-5e6939dd9f9b</guid>
+            <pubDate>Tue, 27 Oct 2015 02:18:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BEINC]]></title>
             <description><![CDATA[<article><h1>BEINC</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74859b85-bb80-4a0e-9cf3-05ec148e0ffd.png"></article>]]></description>
-            <link>undefinedbeinc/index.html</link>
+            <link>https://thegrid.ai/beinc/beinc/index.html</link>
             <guid isPermaLink="false">34d4a24d-6c48-4260-8027-2eb72da11d6f</guid>
             <pubDate>Tue, 27 Oct 2015 02:15:20 GMT</pubDate>
         </item>
